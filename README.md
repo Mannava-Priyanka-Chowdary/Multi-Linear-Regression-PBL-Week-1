@@ -11,7 +11,7 @@ The goal is to predict the **Profit** of a startup based on:
 
 This project was developed as part of PBL (Project-Based Learning) – Week 1.
 
----
+
 
 ## 📂 Dataset Information
 
@@ -27,7 +27,7 @@ The dataset contains 50 observations with the following features:
 
 There are no missing values in the dataset.
 
----
+
 
 ## 🛠 Technologies Used
 
@@ -39,7 +39,7 @@ There are no missing values in the dataset.
 - Scikit-learn
 - Jupyter Notebook
 
----
+
 
 ## 🔍 Steps Performed
 
@@ -52,7 +52,7 @@ There are no missing values in the dataset.
 7. Evaluate the model using R² score  
 8. (Optional) Apply Lasso Regression for comparison  
 
----
+
 
 ## 🤖 Model Used
 
@@ -66,7 +66,7 @@ Where:
 - β₀ = Intercept
 - β₁, β₂, β₃, β₄ = Coefficients
 
----
+
 
 ## 📈 Results
 
@@ -74,7 +74,7 @@ Where:
 - The model shows strong prediction performance
 - R&D Spend has the highest impact on Profit
 
----
+
 
 ## ▶️ How to Run This Project
 
