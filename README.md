@@ -80,4 +80,4 @@ Where:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Multi-Linear-Regression-PBL-Week-1-.git
+   git clone https://github.com/your-username/Multi-Linear-Regression-PBL-Week-1.git
